@@ -1,4 +1,9 @@
 
+// TODO: Thinking about adding dark mode later...
+// Not sure yet, just brainstorming.
+
+
+
 const passwordOutput = document.getElementById("passwordOutput");
 const lengthInput = document.getElementById("lengthInput");
 const includeUpper = document.getElementById("includeUpper");
