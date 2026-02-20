@@ -13,6 +13,8 @@ const includeSymbols = document.getElementById("includeSymbols");
 const generateBtn = document.getElementById("generateBtn");
 const copyBtn = document.getElementById("copyBtn");
 
+
+//Making changes to main branch to practice the git pull
 const upperChars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 const lowerChars = "abcdefghijklmnopqrstuvwxyz";
 const numberChars = "0123456789";
