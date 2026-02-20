@@ -1,4 +1,4 @@
-
+///Practicing adding, committ, and push git commands to push more to the main branch to practice pulling latest changes from main.
 const passwordOutput = document.getElementById("passwordOutput");
 const lengthInput = document.getElementById("lengthInput");
 const includeUpper = document.getElementById("includeUpper");
