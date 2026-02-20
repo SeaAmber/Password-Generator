@@ -1,4 +1,9 @@
-///Practicing adding, committ, and push git commands to push more to the main branch to practice pulling latest changes from main.
+
+// TODO: Thinking about adding dark mode later...
+// Not sure yet, just brainstorming.
+
+
+
 const passwordOutput = document.getElementById("passwordOutput");
 const lengthInput = document.getElementById("lengthInput");
 const includeUpper = document.getElementById("includeUpper");
